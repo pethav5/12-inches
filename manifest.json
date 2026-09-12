@@ -2,7 +2,7 @@
   "name": "12 Inches",
   "short_name": "12 Inches",
   "description": "Track your vinyl collection value, listening history, and how records make you feel",
-  "start_url": "/12-inches",
+  "start_url": "/",
   "scope": ".",
   "display": "standalone",
   "background_color": "#001a4d",
