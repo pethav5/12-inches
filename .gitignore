@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Local backups exported from the app
+*-backup-*.json
+
+# Logs / scratch
+*.log
+node_modules/
